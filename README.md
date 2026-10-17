@@ -17,35 +17,27 @@ At the moment I work primarily with PHP and WordPress, and I'm constantly expand
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQLite-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+
 **Telegram Development**
 
 ![Telegram Bots](https://img.shields.io/badge/Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Telegram Userbots](https://img.shields.io/badge/Userbots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Telegram Mini Apps](https://img.shields.io/badge/Mini_Apps-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
-**Game Development & Other Languages**
+**Game Development**
 
 ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+**Other Languages, Platforms & Tools**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**APIs & Integration**
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQLite-4479A1?style=flat-square&logo=sqlite&logoColor=white)
-
-**Automation & Testing**
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-**Platforms & Environment**
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Unix](https://img.shields.io/badge/Unix-555555?style=flat-square)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ## 📚 Currently Learning
 
