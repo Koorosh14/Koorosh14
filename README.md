@@ -1,6 +1,6 @@
 # Hi there, I'm Koorosh 👋
 
-Software developer with 11+ years of hands-on experience, focused on building fun and useful web and game applications.
+Software developer with 11+ years of hands-on experience, focused on building fun and useful web applications and games.
 
 At the moment I work primarily with PHP and WordPress, and I'm constantly expanding my skills across other technologies.
 
